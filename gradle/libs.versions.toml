@@ -31,7 +31,7 @@ folia = "1.21.11-R0.1-SNAPSHOT"
 viaversion = "5.9.2-SNAPSHOT"
 adapters = "1.17-SNAPSHOT"
 cloud = "2.0.0"
-cloud-minecraft-paper = "2.0.0-20260617.222640-43"
+cloud-minecraft-paper = "2.0.0-beta.16-diytechy"
 cloud-minecraft-velocity = "2.0.0-20260617.222640-43"
 cloud-minecraft-bungee = "2.0.0-20260617.222640-44"
 cloud-minecraft-modded = "2.0.0-20260617.163100-62"
@@ -61,7 +61,7 @@ blossom = "2.2.0"
 runtask = "3.0.2"
 
 # run tasks versions
-runpaperversion = "26.1.2"
+runpaperversion = "26.2"
 runvelocityversion = "3.5.0-SNAPSHOT"
 
 [libraries]

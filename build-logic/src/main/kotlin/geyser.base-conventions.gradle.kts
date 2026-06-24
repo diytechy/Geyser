@@ -36,6 +36,11 @@ repositories {
     // Paper, Velocity
     maven("https://repo.papermc.io/repository/maven-public")
 
+    // diytechy fork of cloud-paper with Paper 26.2 CraftItemStack reflection support
+    maven("https://repo.repsy.io/mvn/diytechy/cloud-minecraft") {
+        content { includeGroup("org.incendo") }
+    }
+
     // Spigot
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots") {
         mavenContent { snapshotsOnly() }
